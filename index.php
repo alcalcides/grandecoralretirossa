@@ -27,7 +27,7 @@
 	<article class="py-3">
 		<h2>Inscrições Abertas!</h2>
 		<p>Leia os termos do projeto e faça sua inscrição: </p>
-		<ul style="list-style: none; margin-top: 30px;">			
+		<ul class="mt-5 pl-0" style="list-style: none;">			
 			<li style="margin-bottom: 20px;"><a href="https://docs.google.com/document/d/19pKcExYHhwoSsVfotw9ePmKxnJVHkrBAtuGOLM2i_Ws/edit?usp=sharing" target="_blank">Documentação Grande Coral</a></li>
 			<li style="margin-bottom: 20px;"><a href="https://www.youtube.com/watch?v=nB5obrZ6hBk&list=PLyh_oxs4z0xvd_UMK5BXUhMe1rNiPN_00" target="_blank">Assista as instruções!</a></li>
 			<li><button type="button" class="btn btn-warning" onclick=irInscreverse()>Inscreva-se agora!</button></li>
