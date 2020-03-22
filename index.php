@@ -45,8 +45,8 @@
 	</section>
 
 <script>
-	function irInscreverse(){
-		window.open("https://forms.gle/kzo7YXtfG5QedGM67");
+	function irInscreverse() {
+		window.open("https://forms.gle/kzo7YXtfG5QedGM67")
 	}
 </script>
 
